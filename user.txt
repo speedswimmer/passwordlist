@@ -1,6 +1,0 @@
-admin
-user
-root
-administrator
-admin1
-pi
